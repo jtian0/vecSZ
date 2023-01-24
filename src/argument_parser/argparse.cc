@@ -12,14 +12,15 @@
  */
 
 #include "argparse.hh"
+#include "../utils/format.hh"
 #include "document.hh"
 #include <cassert>
 #include <cmath>
 #include <cstdlib>
+#include <cstring>
 #include <iostream>
 #include <regex>
 #include <string>
-#include "../utils/format.hh"
 
 using std::cerr;
 using std::cout;
