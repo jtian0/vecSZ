@@ -1,6 +1,7 @@
 #ifndef DUALQUANT_HH
 #define DUALQUANT_HH
 
+#include <cstring>
 #include <cstddef>
 #include <math.h>
 #include <immintrin.h> //avx intrinsics
